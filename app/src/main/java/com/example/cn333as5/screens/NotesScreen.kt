@@ -26,7 +26,7 @@ fun NotesScreen(viewModel: MainViewModel) {
                 backgroundColor = MaterialTheme.colors.primary,
                 title = {
                     Text(
-                        text = "Phone book",
+                        text = "Contacts",
                         color = MaterialTheme.colors.onPrimary
                     )
                 },
